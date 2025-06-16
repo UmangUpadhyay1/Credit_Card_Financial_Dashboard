@@ -1,4 +1,4 @@
-## Credit Card Financial Report
+# Credit Card Financial Report
 ![Credit card financial report](https://github.com/UmangUpadhyay1/Credit_Card_Financial_Dashboard/blob/main/creditcard.png)
 
 ## 📦 SQL Script: Create Tables & Import Data from CSV Files
