@@ -1,6 +1,6 @@
 ## 📦 SQL Script: Create Tables & Import Data from CSV Files
 
-![Credit Card DB Schema](Downloads/ER_DIAG)
+![Credit Card DB Schema]([Downloads/ER_DIAG](https://github.com/UmangUpadhyay1/Credit_Card_Financial_Dashboard/blob/main/ER_DIAG.png))
 
 ```sql
 -- 0. Create a database 
