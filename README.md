@@ -3,13 +3,11 @@
 
 ## 📦 SQL Script: Create Tables & Import Data from CSV Files
 
-![Credit Card DB Schema](https://github.com/UmangUpadhyay1/Credit_Card_Financial_Dashboard/blob/main/ER_DIAG.png)
-
 ```sql
 -- 0. Create a database 
 CREATE DATABASE ccdb;
 
--- 1. Create cc_detail table
+1. Create cc_detail table
 CREATE TABLE cc_detail (
     Client_Num INT,
     Card_Category VARCHAR(20),
@@ -49,7 +47,11 @@ CREATE TABLE cust_detail (
     Income INT,
     Cust_Satisfaction_Score INT
 );
+```
+## Credit Card DB Schema
+![Credit Card DB Schema](https://github.com/UmangUpadhyay1/Credit_Card_Financial_Dashboard/blob/main/ER_DIAG.png)
 
+```sql
 -- 3. Import CSV data into SQL tables (update file paths accordingly)
 
 -- Copy data into cc_detail table
