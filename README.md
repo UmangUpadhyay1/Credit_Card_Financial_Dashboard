@@ -1,5 +1,5 @@
 # Credit Card Financial Report
-![Credit card financial report](https://github.com/UmangUpadhyay1/Credit_Card_Financial_Dashboard/blob/main/creditcard.png)
+![Credit card financial report](https://github.com/UmangUpadhyay1/Credit_Card_Financial_Dashboard/blob/main/image.png)
 
 ## 📦 SQL Script: Create Tables & Import Data from CSV Files
 
