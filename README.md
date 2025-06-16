@@ -89,4 +89,8 @@ FROM 'D:\\cust_add.csv'
 DELIMITER ',' 
 CSV HEADER;
 ```
-
+## Power-Bi Dashboard 
+### Credit Card Transactional Report
+![Report_1](https://github.com/UmangUpadhyay1/Credit_Card_Financial_Dashboard/blob/main/CreditCardReport_page-0001.jpg)
+### Credit Card Customer Report
+![Report_2](https://github.com/UmangUpadhyay1/Credit_Card_Financial_Dashboard/blob/main/CreditCardReport_page-0002.jpg)
