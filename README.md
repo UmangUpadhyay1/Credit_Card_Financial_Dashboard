@@ -1,5 +1,7 @@
 ## 📦 SQL Script: Create Tables & Import Data from CSV Files
 
+![Credit Card DB Schema](Downloads/ER_DIAG)
+
 ```sql
 -- 0. Create a database 
 CREATE DATABASE ccdb;
